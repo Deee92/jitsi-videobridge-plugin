@@ -1,0 +1,23 @@
+{
+  "name": "jitsi-videobridge test plugin",
+  "id": "jitsi-videobridge-plugin",
+  "properties": [
+    {
+      "name": "stackTraceThresholdMillis",
+      "type": "double",
+      "default": 0.0,
+      "label": "Stack trace threshold (millis)",
+      "checkboxLabel": "",
+      "description": "Any query that exceeds this threshold will have a stack trace captured and attached to it. An empty value will not collect any stack traces, a zero value will collect a stack trace for every query."
+    }
+  ],
+  "aspects": [
+    "se.kth.castor.jitsi.plugin.MethodAspect1",
+    "se.kth.castor.jitsi.plugin.MethodAspect2",
+    "se.kth.castor.jitsi.plugin.MethodAspect3",
+    "se.kth.castor.jitsi.plugin.MethodAspect4",
+    "se.kth.castor.jitsi.plugin.MethodAspect5",
+    "se.kth.castor.jitsi.plugin.MethodAspect6",
+    "se.kth.castor.jitsi.plugin.MethodAspect7"
+  ]
+}
