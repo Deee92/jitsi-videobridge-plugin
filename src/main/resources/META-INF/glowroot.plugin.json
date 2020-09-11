@@ -18,6 +18,9 @@
     "se.kth.castor.jitsi.plugin.MethodAspect4",
     "se.kth.castor.jitsi.plugin.MethodAspect5",
     "se.kth.castor.jitsi.plugin.MethodAspect6",
-    "se.kth.castor.jitsi.plugin.MethodAspect7"
+    "se.kth.castor.jitsi.plugin.MethodAspect7",
+    "se.kth.castor.jitsi.plugin.MethodAspect8",
+    "se.kth.castor.jitsi.plugin.MethodAspect9",
+    "se.kth.castor.jitsi.plugin.MethodAspect10"
   ]
 }
